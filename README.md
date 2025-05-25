@@ -14,7 +14,10 @@
 - 🎨 Gosto de explorar minha criatividade através de desenhos.
 - 🚀 Alguns dos meus projetos, desafios e experiências enquanto trilho o caminho na programação e na área de dados.
 - 
-## Certificados
+### Certificados
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<div align="center">
+  <a href="https://www.credly.com/badges/0dea69ea-2510-40d4-8f87-218c30c40b62/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0dea69ea-2510-40d4-8f87-218c30c40b62/badge.png" alt="Networking Basics by Cisco" width="100">
+  </a>
+</div>
