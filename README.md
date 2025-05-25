@@ -1,11 +1,13 @@
-### Meu nome é Leandro
+## Meu nome é Leandro
 
 🎓 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
 💻 Estou aprendendo e desenvolver competências em:
-- **Java**
-- **MySQL**
-  
+<div display =" "inline">
+<img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+<img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>   
+
 📊 Tenho grande interesse na área de Dados, onde pretendo aprofundar os meus conhecimentos e construir a minha carreira.
 
 🎨 Gosto de explorar minha criatividade através de desenhos.
