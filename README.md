@@ -8,6 +8,6 @@
 
 📊 Tenho grande interesse na área de Dados, onde pretendo aprofundar os meus conhecimentos e construir a minha carreira.
 
-🎨 gosto de explorar minha criatividade através de desenhos.
+🎨 Gosto de explorar minha criatividade através de desenhos.
 
-Alguns dos meus projetos, desafios e experiências enquanto trilho o caminho na programação e na área de dados.
+🚀 Alguns dos meus projetos, desafios e experiências enquanto trilho o caminho na programação e na área de dados.
