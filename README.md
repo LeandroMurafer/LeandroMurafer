@@ -4,8 +4,8 @@
 
 💻 Estou aprendendo e desenvolver competências em:
 <div display =" "inline">
-<img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-<img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+<img width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 📊 Tenho grande interesse na área de Dados, onde pretendo aprofundar os meus conhecimentos e construir a minha carreira.
 
