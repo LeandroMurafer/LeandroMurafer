@@ -13,11 +13,7 @@
 - 📊 Tenho grande interesse na área de Dados, onde pretendo aprofundar os meus conhecimentos e construir a minha carreira.
 - 🎨 Gosto de explorar minha criatividade através de desenhos.
 - 🚀 Alguns dos meus projetos, desafios e experiências enquanto trilho o caminho na programação e na área de dados.
-- 
-### Certificados
-
-<div align="center">
-  <a href="https://www.credly.com/badges/0dea69ea-2510-40d4-8f87-218c30c40b62/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0dea69ea-2510-40d4-8f87-218c30c40b62/badge.png" alt="Networking Basics by Cisco" width="100">
-  </a>
+  
+## Certificados
+<img width = "100" height = "100" src= "https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" />
 </div>
