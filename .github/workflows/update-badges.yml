@@ -1,12 +1,16 @@
-name: Update badges  # Nome do workflow
+
+name: Update badges
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite (UTC)
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
-    runs-on: ubuntu-latest  # Roda em um servidor Linux
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
     permissions:
-      contents: write  # Permite editar o README
+      contents: write
     steps:
-      - name: Update badges
-        uses: pentajo/badge-readme@main  # Usa o script pronto do GitHub
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
