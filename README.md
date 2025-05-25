@@ -1,5 +1,5 @@
 
-🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
+🎓 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
 💻 Estou aprendendo e desenvolver competências em:
 
