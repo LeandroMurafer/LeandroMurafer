@@ -13,3 +13,10 @@
 - 📊 Tenho grande interesse na área de Dados, onde pretendo aprofundar os meus conhecimentos e construir a minha carreira.
 - 🎨 Gosto de explorar minha criatividade através de desenhos.
 - 🚀 Alguns dos meus projetos, desafios e experiências enquanto trilho o caminho na programação e na área de dados.
+- 
+## Certificados
+
+<!--START_SECTION:badges-->
+
+
+<!--END_SECTION:badges-->
