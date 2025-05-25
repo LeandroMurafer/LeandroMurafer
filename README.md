@@ -1,4 +1,4 @@
-## Meu nome é Leandro
+## Leandro Murari
 
 - 🎓 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Estou aprendendo e desenvolver competências em:
