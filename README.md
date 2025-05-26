@@ -22,4 +22,3 @@
 <div>
 <img width = "100" height = "100" src= "https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" />
 </div>
-width = "70" height = "70"
