@@ -4,9 +4,13 @@
 - 💻 Estou aprendendo e desenvolver competências em:
 
 <div display =" "inline">
-<img width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-<img width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+<img align="left" width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width = "70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
 </div>
+
 
 ### Um pouco sobre mim
 
@@ -18,3 +22,4 @@
 <div>
 <img width = "100" height = "100" src= "https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" />
 </div>
+width = "70" height = "70"
